@@ -1,4 +1,4 @@
-### Hi there, I’m Fernanda 🙋🏽‍♀️
+### Hi there, I’m Fernanda 👋
 
 <!--
 **vonderaa/vonderaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-I'm a TI Student based in Aargau, Switzerland. 
+I'm an IT Student based in Aargau, Switzerland. 
  
 - 👾 Primary coding language: Pascal.
 - 👩🏽‍💻 I'm currently working on my portfólio.
 - 🌱 I’m currently learning Python, JS, MySQL, HTML, CSS. 
-- 🤔 I’m looking for help with Python,HTML, CSS
+- 🤔 I’m looking for help with Python,HTML, CSS.
 - 🧐 Ask me about anything, I'll be happy to help and if I don't know the answer, I'll help you find it. 😉
