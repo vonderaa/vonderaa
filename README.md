@@ -18,5 +18,5 @@ I'm an IT Student based in Aargau, Switzerland.
 - 👾 Primary coding language: Pascal.
 - 👩🏽‍💻 I'm currently working on my portfólio.
 - 🌱 I’m currently learning Python, JS, MySQL, HTML, CSS. 
-- 🤔 I’m looking for help with Python,HTML, CSS.
+- 🤔 I’m looking for help with Python, HTML, CSS.
 - 🧐 Ask me about anything, I'll be happy to help and if I don't know the answer, I'll help you find it. 😉
